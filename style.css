@@ -1,0 +1,45 @@
+
+#TitleFont{
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+}
+
+.mainContainer{
+  font-family: 'NTR', sans-serif;
+  padding: 25px;
+  text-align: center;
+}
+
+.smallContainer{
+  padding: 0px 100px 100px 100px;
+  text-align: center;
+}
+
+.usaMap{
+  display: block; /*ask what this means */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#h2Weight{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.listStyle{
+  display: inline-block;
+  text-align: left;
+  padding: 0px 250px;
+}
+
+#BlockFarm{
+  width: 400px;
+  height: auto;
+  padding-left: 100px;
+}
