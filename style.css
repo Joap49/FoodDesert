@@ -38,6 +38,10 @@ ul {
   padding: 0px 250px;
 }
 
+li{
+  display: inline;
+}
+
 #BlockFarm{
   width: 400px;
   height: auto;
